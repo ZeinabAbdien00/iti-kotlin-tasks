@@ -1,1 +1,1 @@
-# iti-kotlin-tasks
+# ITI Kotlin Tasks
