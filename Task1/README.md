@@ -16,19 +16,19 @@
 
  - Aly 445
 
- - Hossam402
+ - Hossam 402
 
  - Ola 388
 
- - Alaa275
+ - Alaa 275
 
- - Basma243
+ - Basma 243
 
  - Mina 334
 
  - Nada 412
 
- - Saad393
+ - Saad 393
 
 #### •Find the fastest runner. Print the name and his/her time (in minutes).
 
