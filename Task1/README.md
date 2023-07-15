@@ -38,7 +38,7 @@
 
 ## Lab 2
 
-A. Boy or Girl
+ #### Boy or Girl
 
 Those days, many boys use beautiful girls' photos as avatars in forums. So it is pretty hard to tell the gender of a user at the first glance. 
 
